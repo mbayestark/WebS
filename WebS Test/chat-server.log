@@ -1,0 +1,11 @@
+2025-05-08T12:02:57.671Z [info]: Server started on port 8088
+2025-05-08T12:05:44.056Z [info]: Server started on port 8088
+2025-05-08T12:07:04.073Z [info]: Server started on port 8088
+2025-05-08T12:10:56.419Z [info]: Server started on port 8088
+2025-05-08T12:12:30.474Z [info]: Server started on port 8088
+2025-05-08T12:12:38.175Z [info]: New client connected. Total clients: 1
+2025-05-08T12:12:54.532Z [info]: New client connected. Total clients: 2
+2025-05-08T12:12:58.106Z [info]: Received message: Hey
+2025-05-08T12:13:10.217Z [info]: Received message: What's up
+2025-05-08T12:16:05.073Z [info]: Client disconnected. Remaining: 1
+2025-05-08T12:16:05.088Z [info]: Client disconnected. Remaining: 0
